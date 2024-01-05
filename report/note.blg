@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2023)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: note.aux
+The style file: unsrt.bst
+Database file #1: refs.bib
+Warning--there's a number but no series in Landau2013
+You've used 19 entries,
+            1791 wiz_defined-function locations,
+            592 strings with 6657 characters,
+and the built_in function-call counts, 4930 in all, are:
+= -- 439
+> -- 234
+< -- 2
++ -- 86
+- -- 67
+* -- 404
+:= -- 800
+add.period$ -- 59
+call.type$ -- 19
+change.case$ -- 18
+chr.to.int$ -- 0
+cite$ -- 20
+duplicate$ -- 185
+empty$ -- 459
+format.name$ -- 67
+if$ -- 1063
+int.to.chr$ -- 0
+int.to.str$ -- 19
+missing$ -- 20
+newline$ -- 98
+num.names$ -- 19
+pop$ -- 28
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 70
+stack$ -- 0
+substring$ -- 440
+swap$ -- 29
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 48
+width$ -- 21
+write$ -- 212
+(There was 1 warning)
